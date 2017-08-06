@@ -6,8 +6,7 @@
 
 ## Einleitung
 
-Albert Einstein:
-> Insofern sich die Gesetze der Mathematik auf die Wirklichkeit beziehen, sind sie nicht sicher. Und insofern sie sich sicher sind, beziehen sie sich nicht auf die Wirklichkeit.
+> Insofern sich die Gesetze der Mathematik auf die Wirklichkeit beziehen, sind sie nicht sicher. Und insofern sie sich sicher sind, beziehen sie sich nicht auf die Wirklichkeit. (Albert Einstein)
 
 Viele tägliche Situationen sind von Unsicherheit und Ungenauigkeit geprägt. Ausdrücke und Worte der natürlichen Sprache können ungenau oder mehrdeutig sein. Es erscheint demnach ein sinnvolles Vorhaben, Unsicherheit und das Schlussfolgern in unsicheren Situationen zu modellieren und zu automatisieren.
 
