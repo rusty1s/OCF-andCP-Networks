@@ -1,8 +1,18 @@
-# Bachelor-Arbeit: Qualitative Semantiken für DAGs - ein Vergleich von OCF- und CP-Netzwerken
+# Bachelor-Arbeit: Qualitative Semantiken für DAGs – ein Vergleich von OCF- und CP-Netzwerken
 
 * **Universität**: Technische Universität Dortmund
 * **Lehrsthul**: Logik in der Informatik
 * :paperclip: [PDF [0.4MB]](https://github.com/rusty1s/OCF-andCP-Networks/raw/master/thesis.pdf)
+
+```
+@mastersthesis{fey2013ocfcp,
+  title={Qualitative Semantiken f{\"u}r DAGs – ein Vergleich von OCF- und CP-Netzwerken},
+  author={Matthias Fey},
+  type={Bachelor-Arbeit},
+  school={Technische Universit{\"a}t Dortmund},
+  year={2017},
+}
+```
 
 ## Einleitung
 
