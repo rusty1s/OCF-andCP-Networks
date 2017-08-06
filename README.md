@@ -5,7 +5,7 @@
 * :paperclip: [PDF [0.4MB]](https://github.com/rusty1s/OCF-andCP-Networks/raw/master/thesis.pdf)
 
 ```
-@mastersthesis{fey2013ocfcp,
+@mastersthesis{Fey2013,
   title={Qualitative Semantiken f{\"u}r DAGs – ein Vergleich von OCF- und CP-Netzwerken},
   author={Matthias Fey},
   type={Bachelor-Arbeit},
