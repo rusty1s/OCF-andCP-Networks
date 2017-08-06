@@ -1,7 +1,7 @@
 # Bachelor-Arbeit: Qualitative Semantiken für DAGs – ein Vergleich von OCF- und CP-Netzwerken
 
 * **Universität**: Technische Universität Dortmund
-* **Lehrsthul**: Logik in der Informatik
+* **Lehrstuhl**: Logik in der Informatik
 * :paperclip: [PDF [0.4MB]](https://github.com/rusty1s/OCF-andCP-Networks/raw/master/thesis.pdf)
 
 ```
