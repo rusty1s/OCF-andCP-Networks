@@ -1,8 +1,8 @@
-#Qualitative Semantiken für DAGs - ein Vergleich von OCF- und CP-Netzwerken
+# Qualitative Semantiken für DAGs - ein Vergleich von OCF- und CP-Netzwerken
 
 Bachelorarbeit beim Lehrstuhl "Logik in der Informatik" an der TU Dortmund
 
-##Introduction
+## Introduction
 
 Albert Einstein:
 > Insofern sich die Gesetze der Mathematik auf die Wirklichkeit beziehen, sind sie nicht sicher. Und insofern sie sich sicher sind, beziehen sie sich nicht auf die Wirklichkeit.
