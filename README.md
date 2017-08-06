@@ -8,7 +8,7 @@
 @mastersthesis{Fey2013,
   title={Qualitative Semantiken f{\"u}r DAGs –- ein Vergleich von OCF- und CP-Netzwerken},
   author={Matthias Fey},
-  type={Bachelor-Arbeit},
+  type={Bachelor-Thesis},
   school={Technische Universit{\"a}t Dortmund},
   year={2013},
 }
