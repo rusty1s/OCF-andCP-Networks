@@ -3,6 +3,7 @@
 * **Universität**: Technische Universität Dortmund
 * **Lehrstuhl**: Logik in der Informatik
 * :paperclip: [PDF [0.4MB]](https://github.com/rusty1s/OCF-andCP-Networks/raw/master/thesis.pdf)
+* :movie_camera: [Slides](https://github.com/rusty1s/OCF-andCP-Networks/files/1299007/slides.pdf)
 
 ```
 @mastersthesis{Fey2013,
