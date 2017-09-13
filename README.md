@@ -21,7 +21,7 @@ oder
 ```
 @article{EichhornFeyKernIsberner2016,
   title={CP- and OCF-networks -- a comparison},
-  author={Christian Eichhorn and Matthias Fey and Gabriele Kern-Isberner},
+  author={Christian Eichhorn and Matthias Fey and Gabriele {Kern-Isberner}},
   journal={Fuzzy Sets and Systems},
   year={2016},
   volume={298},
