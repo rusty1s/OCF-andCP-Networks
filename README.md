@@ -3,6 +3,7 @@
 * **Universität**: Technische Universität Dortmund
 * **Lehrstuhl**: Logik in der Informatik
 * :paperclip: [PDF [0.4MB]](https://github.com/rusty1s/OCF-andCP-Networks/raw/master/thesis.pdf)
+& :page_with_curl: [Publication](http://www.sciencedirect.com/science/article/pii/S0165011416300999)
 * :movie_camera: [Slides](https://github.com/rusty1s/OCF-andCP-Networks/files/1299007/slides.pdf)
 
 ```
@@ -12,6 +13,22 @@
   type={Bachelor-Thesis},
   school={Technische Universit{\"a}t Dortmund},
   year={2013},
+}
+```
+
+oder
+
+```
+@article{EichhornFeyKernIsberner2016,
+  title={CP- and OCF-networks -- a comparison},
+  author={Christian Eichhorn and Matthias Fey and Gabriele Kern-Isberner},
+  journal={Fuzzy Sets and Systems},
+  year={2016},
+  volume={298},
+  pages={109--127},
+  publisher={Elsevier Science Publishers},
+  note={Special Issue on Graded Logical Approaches and Their Applications},
+  address={Essex, UK},
 }
 ```
 
