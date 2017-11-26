@@ -8,7 +8,7 @@
 
 ```
 @mastersthesis{Fey2013,
-  title={{Q}ualitative {S}emantiken f{\"u}r DAGs –- ein {V}ergleich von OCF- und CP-{N}etzwerken},
+  title={{Q}ualitative {S}emantiken f{\"u}r {DAG}s –- ein {V}ergleich von {OCF}- und {CP}-{N}etzwerken},
   author={Matthias Fey},
   type={Bachelor-Thesis},
   school={Technische Universit{\"a}t Dortmund},
