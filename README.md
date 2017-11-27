@@ -8,7 +8,7 @@
 
 ```
 @mastersthesis{Fey2013,
-  title={{Q}ualitative {S}emantiken f{\"u}r {DAG}s –- ein {V}ergleich von {OCF}- und {CP}-{N}etzwerken},
+  title={{Qualitative Semantiken f{\"u}r DAGs –- ein Vergleich von OCF- und CP-Netzwerken}},
   author={Matthias Fey},
   type={Bachelor-Thesis},
   school={Technische Universit{\"a}t Dortmund},
@@ -20,7 +20,7 @@ oder
 
 ```
 @article{EichhornFeyKernIsberner2016,
-  title={CP- and OCF-networks -- a comparison},
+  title={{CP}- and {OCF}-networks -- a comparison},
   author={Christian Eichhorn and Matthias Fey and Gabriele {Kern-Isberner}},
   journal={Fuzzy Sets and Systems},
   year={2016},
